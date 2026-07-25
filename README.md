@@ -14,25 +14,25 @@ Everything below is written in Swift and SwiftUI, ships free, and collects nothi
 ## Apps
 
 <p align="center">
-  <a href="https://github.com/mferak/journeybot-app"><img src="assets/card-journeybot.png" width="640" alt="journeybot — Pack smart. Enjoy the journey. A trip planner that builds a packing list for your real destination, dates, and plans, generated on-device with Apple Intelligence. For iPhone, iPad, and Mac." /></a>
+  <a href="https://github.com/mferak/journeybot-app"><img src="assets/card-journeybot.webp" width="640" alt="journeybot — Pack smart. Enjoy the journey. A trip planner that builds a packing list for your real destination, dates, and plans, generated on-device with Apple Intelligence. For iPhone, iPad, and Mac." /></a>
   <br />
   <a href="https://apps.apple.com/app/apple-store/id6756543673">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://journeybot.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/journeybot-app/issues">Feedback</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mferak/timo-app"><img src="assets/card-timo.png" width="640" alt="Timo — Your world, at a glance. World clocks side by side with the time difference already worked out. Each card shifts colour through dawn, day, dusk, and night. For iPhone." /></a>
+  <a href="https://github.com/mferak/timo-app"><img src="assets/card-timo.webp" width="640" alt="Timo — Your world, at a glance. World clocks side by side with the time difference already worked out. Each card shifts colour through dawn, day, dusk, and night. For iPhone." /></a>
   <br />
   <a href="https://apps.apple.com/app/apple-store/id6762064286">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://trytimo.com">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/timo-app/issues">Feedback</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mferak/hotspot-meter-app"><img src="assets/card-hotspot-meter.png" width="640" alt="Hotspot Meter — Track every megabyte your Mac uses. A menu bar app that counts your data in real time on every network, with live speeds, per-network history, and alerts before your cap. For Mac." /></a>
+  <a href="https://github.com/mferak/hotspot-meter-app"><img src="assets/card-hotspot-meter.webp" width="640" alt="Hotspot Meter — Track every megabyte your Mac uses. A menu bar app that counts your data in real time on every network, with live speeds, per-network history, and alerts before your cap. For Mac." /></a>
   <br />
   <a href="https://apps.apple.com/app/id6763610446">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://hotspot-meter.loam.sk">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/hotspot-meter-app/issues">Feedback</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mferak/kahudo-app"><img src="assets/card-kahudo.png" width="640" alt="Kahudo — Think ahead, place smart. A cosmic tile strategy puzzle. Build poker hands or dice combinations on a grid, in quick rounds or long score-chasing runs. For iPhone." /></a>
+  <a href="https://github.com/mferak/kahudo-app"><img src="assets/card-kahudo.webp" width="640" alt="Kahudo — Think ahead, place smart. A cosmic tile strategy puzzle. Build poker hands or dice combinations on a grid, in quick rounds or long score-chasing runs. For iPhone." /></a>
   <br />
   <a href="https://apps.apple.com/app/apple-store/id6742792242">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://kahudo.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/kahudo-app/issues">Feedback</a>
 </p>
