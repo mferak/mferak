@@ -42,17 +42,17 @@ Everything below is written in Swift and SwiftUI, ships free, and collects nothi
       <sub><a href="https://apps.apple.com/app/id6763610446">App Store</a> · <a href="https://hotspot-meter.loam.sk">Website</a> · <a href="https://github.com/mferak/hotspot-meter-app/issues">Feedback</a></sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://kahudo.app"><img src="assets/kahudo.png" width="76" alt="Kahudo app icon" /></a>
-      <h3><a href="https://kahudo.app">Kahudo</a></h3>
-      <b>A cosmic tile strategy puzzle.</b>
-      <p>Poker hands, dice combinations, and tile placement on a 5×5 grid. Quick rounds or deep strategic runs across endlessly replayable boards. Fully offline, no ads required.</p>
+      <a href="https://github.com/mferak/kahudo-app"><img src="assets/kahudo.png" width="76" alt="Kahudo app icon" /></a>
+      <h3><a href="https://github.com/mferak/kahudo-app">Kahudo</a></h3>
+      <b>Think ahead, place smart.</b>
+      <p>A cosmic tile strategy puzzle. Place tiles on a grid to build poker hands or dice combinations — quick rounds or long score-chasing runs. Fully offline, no ads.</p>
       <sub><b>iPhone</b></sub><br />
-      <sub><a href="https://apps.apple.com/app/apple-store/id6742792242">App Store</a> · <a href="https://kahudo.app">Website</a></sub>
+      <sub><a href="https://apps.apple.com/app/apple-store/id6742792242">App Store</a> · <a href="https://kahudo.app">Website</a> · <a href="https://github.com/mferak/kahudo-app/issues">Feedback</a></sub>
     </td>
   </tr>
 </table>
 
-> The repos above host app info and issue trackers, not source code. Bug reports and feature ideas are genuinely welcome — that's what they're for.
+> The four repos above host app info and issue trackers, not source code. Bug reports and feature ideas are genuinely welcome — that's what they're for.
 
 ## How I build
 
