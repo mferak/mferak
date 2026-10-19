@@ -14,6 +14,12 @@ Everything below is written in Swift and SwiftUI, ships free, and collects nothi
 ## Apps
 
 <p align="center">
+  <a href="https://github.com/mferak/phoo-app"><img src="assets/card-phoo.webp" width="640" alt="Phoo — Find a toilet nearby. Know before you go. See which nearby toilets are open, what they cost and how you get in, with the words to ask for one in 60 languages. For iPhone, iPad, and Apple Watch." /></a>
+  <br />
+  <a href="https://apps.apple.com/app/id6804638882">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://phoo.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/phoo-app/issues">Feedback</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/mferak/journeybot-app"><img src="assets/card-journeybot.webp" width="640" alt="journeybot — Pack smart. Enjoy the journey. A trip planner that builds a packing list for your real destination, dates, and plans, generated on-device with Apple Intelligence. For iPhone, iPad, and Mac." /></a>
   <br />
   <a href="https://apps.apple.com/app/apple-store/id6756543673">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://journeybot.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/journeybot-app/issues">Feedback</a>
@@ -37,7 +43,7 @@ Everything below is written in Swift and SwiftUI, ships free, and collects nothi
   <a href="https://apps.apple.com/app/apple-store/id6742792242">App&nbsp;Store</a> &nbsp;·&nbsp; <a href="https://kahudo.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/mferak/kahudo-app/issues">Feedback</a>
 </p>
 
-> The four repos above host app info and issue trackers, not source code. Bug reports and feature ideas are genuinely welcome — that's what they're for.
+> The five repos above host app info and issue trackers, not source code. Bug reports and feature ideas are genuinely welcome — that's what they're for.
 
 ## How I build
 

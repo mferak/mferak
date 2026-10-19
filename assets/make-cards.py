@@ -55,6 +55,11 @@ def darken_until(hexcolor, target=4.8):
 
 
 CARDS = [
+    dict(key="phoo", icon="phoo.png", name="Phoo",
+         tagline="Find a toilet nearby. Know before you go.",
+         body="See which nearby toilets are open, what they cost and how you get in, "
+              "with the words to ask for one in 60 languages.",
+         platform="iPhone · iPad · Apple Watch", light="#468091", deep="#0A3340"),
     dict(key="journeybot", icon="journeybot.png", name="journeybot",
          tagline="Pack smart. Enjoy the journey.",
          body="A trip planner that builds a packing list for your real destination, "
